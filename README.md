@@ -22,6 +22,8 @@
 -> add a new name/password combination
 -> display a password
 
+![](https://github.com/Password-Manager/Ressources/code.gif)
+
 ## Future improvements
 
 - Possibility of changing the values of a combination (name/password)
