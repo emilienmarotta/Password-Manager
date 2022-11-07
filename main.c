@@ -32,7 +32,7 @@ void action_display_password(FILE *file); // Displays assiociated password
 
 int main(void){
     FILE *backup_file = fopen("backup.txt", "a+"); // Contains the whole combinations
-    FILE *unlock_password_file = fopen("unlck_password.txt", "r+"); // Contains the unlock password
+    FILE *unlock_password_file = fopen("unlock_password.txt", "a+"); // Contains the unlock password
     char unlock_password[UNLCK_PASS_SIZE];
     char entered_unlock_password[UNLCK_PASS_SIZE]; // Password entered when input_unlock_password() is called 
     bool is_set_unlock_password = false;
