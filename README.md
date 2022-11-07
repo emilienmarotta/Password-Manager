@@ -22,7 +22,7 @@
 -> add a new name/password combination
 -> display a password
 
-![](https://github.com/Password-Manager/Ressources/code.gif)
+![](https://github.com/emilienmarotta/Password-Manager/blob/main/Ressources/code.gif)
 
 ## Future improvements
 
