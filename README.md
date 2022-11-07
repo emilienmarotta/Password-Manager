@@ -1,6 +1,6 @@
 # Password Manager
 
-- Tired of forgetting your passwords ? Use a password manager :-)  
+- Tired of forgetting your passwords ? Use a password manager :wink:  
 - This password manager stores your passwords in an encrypted file and an unlock password is requested to launch the program (and to access your passwords) 
 
 ## Important notices
