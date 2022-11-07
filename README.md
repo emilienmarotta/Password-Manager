@@ -12,9 +12,9 @@
 
 ## How does the program work ?
 
-- Two void files will be create (if they don't exist yet)
--> "unlock_password.txt" will contain the unlock password
--> "backup.txt" will contain the name and password combinations 
+- Two void files will be create (if they don't exist yet)  
+-> "unlock_password.txt" will contain the unlock password  
+-> "backup.txt" will contain the name and password combinations   
 
 - Step 0 : if the unlock password is not already set, the program asks to set the unlock password
 - Step 1 : the program asks to input the unlock password (while the unlock password is not correct)
