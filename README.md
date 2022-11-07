@@ -6,7 +6,7 @@
 ## Important notices
 
 - this program is **not finished**
-- this program is **not secure at all**
+- this program is **not secure at all**  
 -> the file containing the name and password combinations and the file containing the unlock password are not encrypted yet 
 - some parts of the program may not be compatible with certain standards
 
