@@ -1,11 +1,12 @@
 # Password Manager
 
-- this program add name and password combinations in an encrypted file 
-- the unlock password must be correct to launch the program
+- Tired of forgetting your passwords ? Use a password manager :-)  
+- This password manager stores your passwords in an encrypted file and an unlock password is requested to launch the program (and to access your passwords) 
 
 ## Important notices
 
-- this program is not **secure at all**
+- this program is **not finished**
+- this program is **not secure at all**
 -> the file containing the name and password combinations and the file containing the unlock password are not encrypted yet 
 - some parts of the program may not be compatible with certain standards
 
