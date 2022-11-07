@@ -1,18 +1,3 @@
-/*** In the README.md file
-* /!\ Some parts of the program may not be compatible with certain standards
-* /!\ Absolutely not secure
-***/
-
-/*** Future improvements :
-* Automatic creation of files if they don't exist
-* Possibility of changing the values of a combination (name/password)
-* Possibility of removing a combination
-* Compatibility with all standards
-* Asymetric encryption
-* Graphic interface
-* Forgotten unlock password procedure
-***/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
