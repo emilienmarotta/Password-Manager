@@ -58,7 +58,7 @@ int main(void){
     while(true){
         action = select_action();
         if(action == _ADD)
-            action_add_combination(name, password, backup_file); // Remove name, password
+            action_add_combination(name, password, backup_file);
         else
             action_display_password(backup_file);
     }
